@@ -1,0 +1,19 @@
+.not-found-icon{
+    height: 280px;
+    width: 220px;
+    
+}
+
+.not-found-text h1{
+    font-size: 100px;
+    margin: 0%;
+}
+.not-found-text h3{
+    margin: 0%;
+    font-size: 30px;
+    
+}
+.not-found-text{
+    color: gray;
+    text-align: center;
+}

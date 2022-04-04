@@ -1,0 +1,32 @@
+.chart-container{
+    display: flex;
+    gap: 20px;
+}
+
+.bar-chart{
+    margin-top: 50px ;
+    margin-left: 20px;
+}
+.line-chart{
+    margin-top: 50px ;
+    margin-left: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .chart-container{
+        display: grid;
+        grid-template-columns: 1fr ;
+        
+    }
+    .bar-chart{
+        margin-top: 1rem ;
+        
+    }
+    .line-chart{
+        margin-top: 4rem;
+        margin-left: -1rem;
+        width: 150px
+    }
+    
+}

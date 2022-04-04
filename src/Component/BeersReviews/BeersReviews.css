@@ -1,0 +1,16 @@
+.beer-info img {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+.beer-info{
+    display: flex;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 15px;
+}
+.review{
+    color: rgb(139, 134, 134);
+}
+
+

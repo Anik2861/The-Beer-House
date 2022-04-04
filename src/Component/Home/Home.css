@@ -1,0 +1,44 @@
+/* Banner start */
+.banner{
+    display: flex;
+    
+}
+.banner-info{
+    margin-top: 80px;
+    margin-left: 15px;
+}
+
+
+.review-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 15px;
+    margin-top: 40px;
+}
+
+.see-all-btn{
+    text-decoration: none;
+    border-radius: 30px;
+    color: azure;
+    background-color: rgb(75, 133, 241);
+    padding: 8px;
+    text-align: center;
+    width: 160px;
+   
+}
+
+@media only screen and (max-width: 600px) {
+
+    .review-container{
+        display: grid;
+        grid-template-columns: 1fr ;
+    }
+    .banner{
+        display: grid;
+        grid-template-columns: 1fr ;
+    }
+    .banner-img{
+        margin-left: 40px;
+    }
+    
+}
