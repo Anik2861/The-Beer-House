@@ -7,14 +7,9 @@ footer{
     text-align: center;
     color:white;
 }
-.footvar{
-    font-size:10px;
-}
-.icon{
-    margin-bottom:25px;
-}
+
 .footer-container{
     margin-top: 30px;
-    padding: 8px;
+    padding: 5px;
 }
 
