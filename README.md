@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# Project Name:- The Beer House.
+## [Netlify live server link](https://splendorous-madeleine-52daa1.netlify.app/home).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Project Details : 
+
+- Make a beer review website.
+- This Project basically show customer review.
+- Make  some Chart .
+- This website is  resoponsive in mobile device .
+
+
+
+---
 
 ## Available Scripts
 
